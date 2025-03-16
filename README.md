@@ -39,3 +39,5 @@ To conduct a comprehensive analysis of the employee data to gain valuable insigh
 6.	The R&D department has the highest attrition followed by Sales. HR has a very minimal attrition percentage.
 7.	Generally, younger people are more likely to leave their jobs especially those in the age group of 25-34. Older people are more likely to stay back with the company.
 8.	Mostly single people leave their jobs followed closely by married. Divorced people are way less in percentage of attrition although their total percentage amongst the employees is also less so it is incorrect to draw such conclusions as divorced people are less likely to leave.
+
+ ![Image Alt](image_url)
